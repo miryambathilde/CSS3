@@ -1,0 +1,63 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 100%;
+    color: grey;
+}
+
+h1 {
+    font-size: 1.6em;
+    font-weight: 700;
+    text-align: center;
+}
+
+#part1 {
+    font-size: 0.9em;
+    font-weight: 400;
+    text-indent: 0.5em;
+    line-height: 1.5em;
+    padding: 25px;
+    background-color: pink;
+    margin-bottom: 30px;
+    border: 1.5px dotted palevioletred;
+}
+
+#part2 {
+    font-size: 0.9em;
+    font-weight: 400;
+    text-indent: 0.5em;
+    line-height: 1.5em;
+    padding: 15px;
+    background-color: lightblue;
+    border: 1.8px solid gray;
+}
+
+.pie {
+    font-style:italic;
+    text-transform: uppercase;
+}
+
+#cabecera {
+    background: lightgray url('img/programming-1873854_1280.png') no-repeat center;
+    height: 500px;
+    color: lightcyan;
+    font-weight: 900;
+    font-size: 1.5em;
+    text-align: center;
+    padding-top: 5px;
+}
+
+#sidebar {
+    text-align: center;
+}
+.autor {
+    color: purple;
+    text-align: justify; 
+}
+
+#caja {
+    width: 400px;
+    background-color:aliceblue;
+    padding: 10px;
+    border: 2px solid blue;
+    box-sizing: border-box;
+}
